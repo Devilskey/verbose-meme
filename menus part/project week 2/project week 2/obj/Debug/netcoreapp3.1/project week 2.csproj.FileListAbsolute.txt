@@ -1,0 +1,35 @@
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\project week 2.exe
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\project week 2.deps.json
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\project week 2.runtimeconfig.json
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\project week 2.runtimeconfig.dev.json
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\project week 2.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\project week 2.pdb
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.csproj.AssemblyReference.cache
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2_MarkupCompile.cache
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2_MarkupCompile.lref
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.g.resources
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.AssemblyInfoInputs.cache
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.AssemblyInfo.cs
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.csproj.CoreCompileInputs.cache
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.pdb
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.genruntimeconfig.cache
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\guide.g.cs
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\guide.baml
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\Vraag.g.cs
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\Vraag.baml
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\AForge.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\AForge.Video.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\zxing.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\project week 2.csproj.CopyComplete
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\aboutpage.g.cs
+C:\Users\ecola\source\repos\project week 2\project week 2\obj\Debug\netcoreapp3.1\aboutpage.baml

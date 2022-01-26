@@ -1,0 +1,21 @@
+﻿<Window x:Class="Projectweek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projectweek"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="640" Width="360" ResizeMode="NoResize">
+    <Grid Background="DarkCyan">
+
+        <StackPanel Margin="10, 0, 10,0">
+            <Label Name="lblVraag" FontSize="20" Margin="0,40,0,20" HorizontalAlignment="Center" FontWeight="Bold">vraag</Label>
+            <Label Name="lblAntA" FontSize="20">antwoord optie a</Label>
+            <Label Name="lblAntB" FontSize="20">antwoord optie b</Label>
+            <Label Name="lblAntC" FontSize="20">antwoord optie c</Label>
+            
+            <TextBox Name="Antwoord" Height="30" Margin="0,150,0,0" FontSize="20" MaxLines="1" MaxLength="1" HorizontalAlignment="Stretch" VerticalAlignment="Center" >Antwoord</TextBox>
+            <Button Name="Btn_Submit" Content="verstuur" Click="Btn_Submit_Click" Height="50" Margin="0,100,0,0" FontSize="30"/>
+        </StackPanel>
+    </Grid>
+</Window>

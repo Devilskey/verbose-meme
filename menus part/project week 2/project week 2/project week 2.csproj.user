@@ -16,7 +16,7 @@
     <Compile Update="MainWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Vraag.xaml.cs">
+    <Compile Update="video.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -30,7 +30,7 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Vraag.xaml">
+    <Page Update="video.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

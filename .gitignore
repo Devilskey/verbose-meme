@@ -83,3 +83,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+menus part/project week 2/project week 2/obj/Debug/netcoreapp3.1/project week 2.dll
+menus part/project week 2/project week 2/obj/Debug/netcoreapp3.1/project week 2.dll
+*.dll

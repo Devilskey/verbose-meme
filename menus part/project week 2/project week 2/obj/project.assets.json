@@ -281,6 +281,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "AForge >= 2.2.5",
       "AForge.Video >= 2.2.5",
       "AForge.Video.DirectShow >= 2.2.5",
       "System.Drawing.Common >= 6.0.0",
@@ -334,6 +335,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "AForge": {
+            "target": "Package",
+            "version": "[2.2.5, )"
+          },
           "AForge.Video": {
             "target": "Package",
             "version": "[2.2.5, )"
